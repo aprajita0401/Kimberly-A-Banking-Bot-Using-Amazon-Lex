@@ -105,7 +105,7 @@ Use the Amazon Lex test console or integrate the bot via the CloudFront distribu
 
 
 ---
-## Refer PDF (Kimberly_A_Banking_ChatBot_Using_Amazon_Lex.pdf
+## Refer PDF (Kimberly_A_Banking_ChatBot_Using_Amazon_Lex.pdf)
 - I have documented every step while creating this project. One can follow the PDF, if they are interested in having hands-on experience with Amazon Lex.
 
 ## 🤝 Contributing
@@ -122,6 +122,7 @@ Use the Amazon Lex test console or integrate the bot via the CloudFront distribu
 - Amazon Lex Developer Guide  
 - AWS Lambda Documentation  
 - AWS SAM Documentation
+
 
 
 
