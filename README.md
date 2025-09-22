@@ -83,9 +83,8 @@ Use the Amazon Lex test console or integrate the bot via the CloudFront distribu
 
 ## 🖼️ Architecture
 
-   User
+       User
          |
-   
    [Amazon Lex V2]
         
          |
@@ -123,6 +122,7 @@ Use the Amazon Lex test console or integrate the bot via the CloudFront distribu
 - Amazon Lex Developer Guide  
 - AWS Lambda Documentation  
 - AWS SAM Documentation
+
 
 
 
