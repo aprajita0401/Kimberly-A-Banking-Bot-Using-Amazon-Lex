@@ -83,17 +83,26 @@ Use the Amazon Lex test console or integrate the bot via the CloudFront distribu
 
 ## 🖼️ Architecture
 
-       User
+   User
          |
+   
    [Amazon Lex V2]
+        
          |
+   
    +-----v-----+
+  
    | AWS Lambda |  <-- Python 3.12 runtime (lambda_function.py)
+  
    +-----+-----+
+        
          |
+   
    [AWS CloudFront]
+        
          |
-      (Frontend/UI)
+      
+   (Frontend/UI)
 
 
 ---
@@ -114,6 +123,7 @@ Use the Amazon Lex test console or integrate the bot via the CloudFront distribu
 - Amazon Lex Developer Guide  
 - AWS Lambda Documentation  
 - AWS SAM Documentation
+
 
 
 
