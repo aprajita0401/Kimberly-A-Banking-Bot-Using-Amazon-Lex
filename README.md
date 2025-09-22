@@ -6,6 +6,7 @@ A serverless **banking chatbot** built with **Amazon Lex V2**, **AWS Lambda (Pyt
 - Handle multi-turn conversations with context awareness and validation.
 
 This project demonstrates how to integrate **NLU (Natural Language Understanding)** with **serverless compute** and **infrastructure-as-code (IaC)** for scalable, production-ready conversational applications.
+Video Link of Demonstration: https://drive.google.com/file/d/1_gMfklVozPQqy872O-zEKwIhBvWeF8TU/view?usp=sharing
 
 ---
 
@@ -43,6 +44,7 @@ This project demonstrates how to integrate **NLU (Natural Language Understanding
 
 ### 1. Clone Repository
 git clone (https://github.com/aprajita0401/Kimberly-A-Banking-Bot-Using-Amazon-Lex/)
+
 cd kimberly-banking-chatbot
 
 ### 2. Build and Deploy Infrastructure
@@ -91,6 +93,8 @@ Use the Amazon Lex test console or integrate the bot via the CloudFront distribu
 
 
 ---
+## Refer PDF 
+- I have documented every step while creating this project. One can follow the PDF, if they are interested in having hands-on experience with Amazon Lex.
 
 ## 🤝 Contributing
 
@@ -107,6 +111,6 @@ Use the Amazon Lex test console or integrate the bot via the CloudFront distribu
 - AWS Lambda Documentation  
 - AWS SAM Documentation
 
-## Refer PDF 
-- I have documented every step while creating this project. One can follow the PDF, if they are interested in having hands-on experience with Amazon Lex
+
+
 
