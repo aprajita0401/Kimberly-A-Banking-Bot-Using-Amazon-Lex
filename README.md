@@ -42,7 +42,7 @@ This project demonstrates how to integrate **NLU (Natural Language Understanding
 ## ⚙️ Setup & Deployment
 
 ### 1. Clone Repository
-git clone https://github.com/<your-username>/kimberly-banking-chatbot.git
+git clone (https://github.com/aprajita0401/Kimberly-A-Banking-Bot-Using-Amazon-Lex/)
 cd kimberly-banking-chatbot
 
 ### 2. Build and Deploy Infrastructure
@@ -101,15 +101,12 @@ Use the Amazon Lex test console or integrate the bot via the CloudFront distribu
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See LICENSE for details.
-
----
-
 ## ✨ Acknowledgements
 
 - Amazon Lex Developer Guide  
 - AWS Lambda Documentation  
 - AWS SAM Documentation
+
+## Refer PDF 
+- I have documented every step while creating this project. One can follow the PDF, if they are interested in having hands-on experience with Amazon Lex
 
