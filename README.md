@@ -7,7 +7,7 @@ A serverless **banking chatbot** built with **Amazon Lex V2**, **AWS Lambda (Pyt
 
 This project demonstrates how to integrate **NLU (Natural Language Understanding)** with **serverless compute** and **infrastructure-as-code (IaC)** for scalable, production-ready conversational applications.
 
-Video Link of Demonstration: https://drive.google.com/file/d/1_gMfklVozPQqy872O-zEKwIhBvWeF8TU/view?usp=sharing
+Demonstration Video Link: https://drive.google.com/file/d/1_gMfklVozPQqy872O-zEKwIhBvWeF8TU/view?usp=sharing
 
 ---
 
@@ -122,6 +122,7 @@ Use the Amazon Lex test console or integrate the bot via the CloudFront distribu
 - Amazon Lex Developer Guide  
 - AWS Lambda Documentation  
 - AWS SAM Documentation
+
 
 
 
